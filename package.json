@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "luxon": "^2.3.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  }
+}
